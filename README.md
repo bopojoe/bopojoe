@@ -6,8 +6,8 @@
  
 ## More about me
 
-- 🔭 I’m currently working on TwitchBot updates
-- 🌱 I’m currently learning better coding practices 
+- 🔭 I’m currently working on RPI home automation 
+- 🌱 I’m currently researching, AR/VR best practices
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-o-rourke-dev/)
 
 
